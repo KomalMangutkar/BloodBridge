@@ -1,0 +1,1537 @@
+{
+  "users": [
+    {
+      "id": "usr-hospital",
+      "email": "hospital@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "HOSPITAL",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor",
+      "email": "donor@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-bloodbank",
+      "email": "bloodbank@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "BLOOD_BANK",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-admin",
+      "email": "admin@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "ADMIN",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-hosp-2",
+      "email": "apollo@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "HOSPITAL",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-hosp-3",
+      "email": "fortis@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "HOSPITAL",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-hosp-4",
+      "email": "max@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "HOSPITAL",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-hosp-5",
+      "email": "gangaram@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "HOSPITAL",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-bb-2",
+      "email": "redcross@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "BLOOD_BANK",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-bb-3",
+      "email": "rotary@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "BLOOD_BANK",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-bb-4",
+      "email": "lifeline@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "BLOOD_BANK",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-bb-5",
+      "email": "citybank@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "BLOOD_BANK",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-2",
+      "email": "donor2@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-3",
+      "email": "donor3@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-4",
+      "email": "donor4@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-5",
+      "email": "donor5@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-6",
+      "email": "donor6@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-7",
+      "email": "donor7@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-8",
+      "email": "donor8@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-9",
+      "email": "donor9@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-10",
+      "email": "donor10@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-11",
+      "email": "donor11@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-12",
+      "email": "donor12@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-13",
+      "email": "donor13@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-14",
+      "email": "donor14@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-15",
+      "email": "donor15@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-donor-16",
+      "email": "donor16@demo.com",
+      "passwordHash": "$2b$10$xOMlL7RNmDaO1Ll/C/jG4e3/3TyWd7v4aOLP4dDfIfwL.WaKOAmv.",
+      "role": "DONOR",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "usr-1791529268334",
+      "email": "komal.mangutkar25@sakec.ac.in",
+      "passwordHash": "$2b$10$uFdo19CiLjR0xFPV8LGxPOfpM6iemhAFvHqlL1xO870vUJQ5V8eEy",
+      "role": "DONOR",
+      "createdAt": "2026-10-09T07:01:08.334Z",
+      "updatedAt": "2026-10-09T07:01:08.334Z"
+    },
+    {
+      "id": "usr-1791531070981",
+      "email": "komalmngutkr14@gmail.com",
+      "passwordHash": "$2b$10$485l.uKP7xKYiyVTAY3RzO0U/PYTbP7PEZgxmLGjduENi22Bw/NFu",
+      "role": "HOSPITAL",
+      "createdAt": "2026-10-09T07:31:10.981Z",
+      "updatedAt": "2026-10-09T07:31:10.981Z"
+    }
+  ],
+  "donors": [
+    {
+      "id": "donor-1",
+      "userId": "usr-donor",
+      "fullName": "Rahul Sharma (Demo Donor)",
+      "phone": "+91 98765 43210",
+      "bloodGroup": "O+",
+      "city": "New Delhi",
+      "address": "Hauz Khas, New Delhi",
+      "latitude": 28.5494,
+      "longitude": 77.2001,
+      "isAvailable": true,
+      "lastDonationDate": "2026-06-15",
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "nextEligibleDate": "2026-09-15",
+      "totalDonations": 4,
+      "reliabilityScore": 96,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-2",
+      "userId": "usr-donor-2",
+      "fullName": "Priya Kapoor",
+      "phone": "+91 98765 43211",
+      "bloodGroup": "O-",
+      "city": "New Delhi",
+      "address": "Green Park, New Delhi",
+      "latitude": 28.5589,
+      "longitude": 77.2028,
+      "isAvailable": true,
+      "lastDonationDate": "2026-05-10",
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "nextEligibleDate": "2026-08-10",
+      "totalDonations": 6,
+      "reliabilityScore": 98,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-3",
+      "userId": "usr-donor-3",
+      "fullName": "Amit Verma",
+      "phone": "+91 98765 43212",
+      "bloodGroup": "O+",
+      "city": "New Delhi",
+      "address": "Lajpat Nagar",
+      "latitude": 28.57,
+      "longitude": 77.237,
+      "isAvailable": false,
+      "lastDonationDate": "2026-07-01",
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "nextEligibleDate": "2026-10-01",
+      "totalDonations": 2,
+      "reliabilityScore": 88,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": false,
+        "email": true,
+        "whatsapp": false
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-4",
+      "userId": "usr-donor-4",
+      "fullName": "Sneha Patel",
+      "phone": "+91 98765 43213",
+      "bloodGroup": "A+",
+      "city": "New Delhi",
+      "address": "Safdarjung Enclave",
+      "latitude": 28.562,
+      "longitude": 77.195,
+      "isAvailable": true,
+      "lastDonationDate": "2026-04-12",
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "nextEligibleDate": "2026-07-12",
+      "totalDonations": 3,
+      "reliabilityScore": 92,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-5",
+      "userId": "usr-donor-5",
+      "fullName": "Vikram Malhotra",
+      "phone": "+91 98765 43214",
+      "bloodGroup": "O+",
+      "city": "New Delhi",
+      "address": "South Extension",
+      "latitude": 28.5728,
+      "longitude": 77.2185,
+      "isAvailable": true,
+      "lastDonationDate": "2026-09-20",
+      "platformEligibilityStatus": "NOT_CURRENTLY_ELIGIBLE",
+      "nextEligibleDate": "2026-12-19",
+      "totalDonations": 5,
+      "reliabilityScore": 95,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-6",
+      "userId": "usr-donor-6",
+      "fullName": "Kavita Rao",
+      "phone": "+91 98765 43215",
+      "bloodGroup": "O+",
+      "city": "Gurugram",
+      "address": "Cyber City, Phase 2",
+      "latitude": 28.49,
+      "longitude": 77.09,
+      "isAvailable": true,
+      "lastDonationDate": "2026-05-01",
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "nextEligibleDate": "2026-08-01",
+      "totalDonations": 1,
+      "reliabilityScore": 85,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-7",
+      "userId": "usr-donor-7",
+      "fullName": "Arjun Nair",
+      "phone": "+91 98765 43216",
+      "bloodGroup": "B+",
+      "city": "New Delhi",
+      "latitude": 28.58,
+      "longitude": 77.22,
+      "isAvailable": true,
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "totalDonations": 2,
+      "reliabilityScore": 90,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-8",
+      "userId": "usr-donor-8",
+      "fullName": "Zoya Khan",
+      "phone": "+91 98765 43217",
+      "bloodGroup": "AB-",
+      "city": "New Delhi",
+      "latitude": 28.53,
+      "longitude": 77.2,
+      "isAvailable": true,
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "totalDonations": 7,
+      "reliabilityScore": 97,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-9",
+      "userId": "usr-donor-9",
+      "fullName": "Tanvi Joshi",
+      "phone": "+91 98765 43218",
+      "bloodGroup": "A-",
+      "city": "Noida",
+      "latitude": 28.57,
+      "longitude": 77.32,
+      "isAvailable": true,
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "totalDonations": 3,
+      "reliabilityScore": 91,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-10",
+      "userId": "usr-donor-10",
+      "fullName": "Devansh Roy",
+      "phone": "+91 98765 43219",
+      "bloodGroup": "AB+",
+      "city": "New Delhi",
+      "latitude": 28.61,
+      "longitude": 77.23,
+      "isAvailable": true,
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "totalDonations": 1,
+      "reliabilityScore": 82,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-11",
+      "userId": "usr-donor-11",
+      "fullName": "Meera Deshmukh",
+      "phone": "+91 98765 43220",
+      "bloodGroup": "O+",
+      "city": "New Delhi",
+      "address": "Greater Kailash 1",
+      "latitude": 28.5525,
+      "longitude": 77.2405,
+      "isAvailable": true,
+      "platformEligibilityStatus": "ELIGIBLE_BY_PLATFORM_RULES",
+      "totalDonations": 5,
+      "reliabilityScore": 94,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-12",
+      "userId": "usr-donor-12",
+      "fullName": "Rohan Mehra",
+      "phone": "+91 98765 43221",
+      "bloodGroup": "B-",
+      "city": "New Delhi",
+      "latitude": 28.59,
+      "longitude": 77.22,
+      "isAvailable": true,
+      "platformEligibilityStatus": "REVIEW_REQUIRED",
+      "totalDonations": 0,
+      "reliabilityScore": 75,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "donor-1791529268568",
+      "userId": "usr-1791529268334",
+      "fullName": "Komal Mangutkar",
+      "phone": "+91 9324613094",
+      "bloodGroup": "O+",
+      "city": "Mumbai",
+      "address": "Sion",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "isAvailable": true,
+      "platformEligibilityStatus": "NOT_CURRENTLY_ELIGIBLE",
+      "totalDonations": 0,
+      "reliabilityScore": 80,
+      "notificationPreferences": {
+        "inApp": true,
+        "sms": false,
+        "email": true,
+        "whatsapp": false
+      },
+      "consentGiven": true,
+      "createdAt": "2026-10-09T07:01:08.334Z",
+      "updatedAt": "2026-10-09T07:24:21.728Z"
+    }
+  ],
+  "hospitals": [
+    {
+      "id": "hosp-1",
+      "userId": "usr-hospital",
+      "name": "AIIMS Central Hospital",
+      "registrationNumber": "HOSP-AIIMS-001",
+      "city": "New Delhi",
+      "address": "Ansari Nagar, New Delhi",
+      "latitude": 28.5672,
+      "longitude": 77.21,
+      "contactNumber": "+91 11 2658 8500",
+      "emergencyContact": "+91 11 2658 8700",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "hosp-2",
+      "userId": "usr-hosp-2",
+      "name": "Apollo Indraprastha Hospital",
+      "registrationNumber": "HOSP-APOLLO-002",
+      "city": "New Delhi",
+      "address": "Sarita Vihar, Delhi Mathura Road",
+      "latitude": 28.5412,
+      "longitude": 77.2842,
+      "contactNumber": "+91 11 2692 5858",
+      "emergencyContact": "+91 11 2692 5800",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "hosp-3",
+      "userId": "usr-hosp-3",
+      "name": "Fortis Escorts Heart Institute",
+      "registrationNumber": "HOSP-FORTIS-003",
+      "city": "New Delhi",
+      "address": "Okhla Road, Sukhdev Vihar",
+      "latitude": 28.5606,
+      "longitude": 77.2755,
+      "contactNumber": "+91 11 4713 5000",
+      "emergencyContact": "+91 11 4713 5100",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "hosp-4",
+      "userId": "usr-hosp-4",
+      "name": "Max Super Speciality Hospital",
+      "registrationNumber": "HOSP-MAX-004",
+      "city": "New Delhi",
+      "address": "Saket, Press Enclave Road",
+      "latitude": 28.5283,
+      "longitude": 77.2112,
+      "contactNumber": "+91 11 2651 5050",
+      "emergencyContact": "+91 11 2651 5000",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "hosp-5",
+      "userId": "usr-hosp-5",
+      "name": "Sir Ganga Ram Hospital",
+      "registrationNumber": "HOSP-SGRH-005",
+      "city": "New Delhi",
+      "address": "Old Rajinder Nagar",
+      "latitude": 28.6385,
+      "longitude": 77.1895,
+      "contactNumber": "+91 11 4225 4000",
+      "emergencyContact": "+91 11 4225 4100",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "hosp-1791531071159",
+      "userId": "usr-1791531070981",
+      "name": "City Hospital",
+      "registrationNumber": "HOSP-REG-2026-99",
+      "city": "Mumbai",
+      "address": "Sion",
+      "latitude": 28.5672,
+      "longitude": 77.21,
+      "contactNumber": "+91 9324613094",
+      "emergencyContact": "+91 9324613094",
+      "verificationStatus": "PENDING",
+      "createdAt": "2026-10-09T07:31:10.981Z",
+      "updatedAt": "2026-10-09T07:31:10.981Z"
+    }
+  ],
+  "bloodBanks": [
+    {
+      "id": "bb-1",
+      "userId": "usr-bloodbank",
+      "name": "Red Cross National Blood Bank",
+      "registrationNumber": "BB-REDCROSS-01",
+      "city": "New Delhi",
+      "address": "1 Red Cross Road, Parliament Street",
+      "latitude": 28.6219,
+      "longitude": 77.2095,
+      "contactNumber": "+91 11 2371 6441",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "bb-2",
+      "userId": "usr-bb-2",
+      "name": "Lion Blood Bank & Transfusion Center",
+      "registrationNumber": "BB-LION-02",
+      "city": "New Delhi",
+      "address": "East of Kailash, Community Centre",
+      "latitude": 28.5562,
+      "longitude": 77.2435,
+      "contactNumber": "+91 11 2641 1234",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "bb-3",
+      "userId": "usr-bb-3",
+      "name": "Rotary Blood Bank Gurugram",
+      "registrationNumber": "BB-ROTARY-03",
+      "city": "Gurugram",
+      "address": "Sector 56, Golf Course Road",
+      "latitude": 28.4312,
+      "longitude": 77.1025,
+      "contactNumber": "+91 124 257 8888",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "bb-4",
+      "userId": "usr-bb-4",
+      "name": "Noida Metropolis Blood Centre",
+      "registrationNumber": "BB-NOIDA-04",
+      "city": "Noida",
+      "address": "Sector 27, Atta Market",
+      "latitude": 28.5744,
+      "longitude": 77.3298,
+      "contactNumber": "+91 120 456 7890",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "bb-5",
+      "userId": "usr-bb-5",
+      "name": "Chandigarh Regional Blood Depository",
+      "registrationNumber": "BB-CHD-05",
+      "city": "Chandigarh",
+      "address": "Sector 12, PGI Campus",
+      "latitude": 30.7651,
+      "longitude": 76.7794,
+      "contactNumber": "+91 172 274 7585",
+      "verificationStatus": "VERIFIED",
+      "createdAt": "2026-10-08T19:19:51.677Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    }
+  ],
+  "inventory": [
+    {
+      "id": "inv-bb-1-O-",
+      "bloodBankId": "bb-1",
+      "bloodGroup": "O-",
+      "unitsAvailable": 3,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-1-O+",
+      "bloodBankId": "bb-1",
+      "bloodGroup": "O+",
+      "unitsAvailable": 17,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-1-A-",
+      "bloodBankId": "bb-1",
+      "bloodGroup": "A-",
+      "unitsAvailable": 5,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-1-A+",
+      "bloodBankId": "bb-1",
+      "bloodGroup": "A+",
+      "unitsAvailable": 8,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-1-B-",
+      "bloodBankId": "bb-1",
+      "bloodGroup": "B-",
+      "unitsAvailable": 6,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-1-B+",
+      "bloodBankId": "bb-1",
+      "bloodGroup": "B+",
+      "unitsAvailable": 6,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-1-AB-",
+      "bloodBankId": "bb-1",
+      "bloodGroup": "AB-",
+      "unitsAvailable": 18,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-1-AB+",
+      "bloodBankId": "bb-1",
+      "bloodGroup": "AB+",
+      "unitsAvailable": 25,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-2-O-",
+      "bloodBankId": "bb-2",
+      "bloodGroup": "O-",
+      "unitsAvailable": 3,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-2-O+",
+      "bloodBankId": "bb-2",
+      "bloodGroup": "O+",
+      "unitsAvailable": 8,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-2-A-",
+      "bloodBankId": "bb-2",
+      "bloodGroup": "A-",
+      "unitsAvailable": 13,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-2-A+",
+      "bloodBankId": "bb-2",
+      "bloodGroup": "A+",
+      "unitsAvailable": 18,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-2-B-",
+      "bloodBankId": "bb-2",
+      "bloodGroup": "B-",
+      "unitsAvailable": 6,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-2-B+",
+      "bloodBankId": "bb-2",
+      "bloodGroup": "B+",
+      "unitsAvailable": 16,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-2-AB-",
+      "bloodBankId": "bb-2",
+      "bloodGroup": "AB-",
+      "unitsAvailable": 5,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-2-AB+",
+      "bloodBankId": "bb-2",
+      "bloodGroup": "AB+",
+      "unitsAvailable": 25,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-3-O-",
+      "bloodBankId": "bb-3",
+      "bloodGroup": "O-",
+      "unitsAvailable": 3,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-3-O+",
+      "bloodBankId": "bb-3",
+      "bloodGroup": "O+",
+      "unitsAvailable": 18,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-3-A-",
+      "bloodBankId": "bb-3",
+      "bloodGroup": "A-",
+      "unitsAvailable": 6,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-3-A+",
+      "bloodBankId": "bb-3",
+      "bloodGroup": "A+",
+      "unitsAvailable": 10,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-3-B-",
+      "bloodBankId": "bb-3",
+      "bloodGroup": "B-",
+      "unitsAvailable": 6,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-3-B+",
+      "bloodBankId": "bb-3",
+      "bloodGroup": "B+",
+      "unitsAvailable": 9,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-3-AB-",
+      "bloodBankId": "bb-3",
+      "bloodGroup": "AB-",
+      "unitsAvailable": 6,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-3-AB+",
+      "bloodBankId": "bb-3",
+      "bloodGroup": "AB+",
+      "unitsAvailable": 25,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-4-O-",
+      "bloodBankId": "bb-4",
+      "bloodGroup": "O-",
+      "unitsAvailable": 3,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-4-O+",
+      "bloodBankId": "bb-4",
+      "bloodGroup": "O+",
+      "unitsAvailable": 19,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-4-A-",
+      "bloodBankId": "bb-4",
+      "bloodGroup": "A-",
+      "unitsAvailable": 18,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-4-A+",
+      "bloodBankId": "bb-4",
+      "bloodGroup": "A+",
+      "unitsAvailable": 13,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-4-B-",
+      "bloodBankId": "bb-4",
+      "bloodGroup": "B-",
+      "unitsAvailable": 6,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-4-B+",
+      "bloodBankId": "bb-4",
+      "bloodGroup": "B+",
+      "unitsAvailable": 16,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-4-AB-",
+      "bloodBankId": "bb-4",
+      "bloodGroup": "AB-",
+      "unitsAvailable": 9,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-4-AB+",
+      "bloodBankId": "bb-4",
+      "bloodGroup": "AB+",
+      "unitsAvailable": 25,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-5-O-",
+      "bloodBankId": "bb-5",
+      "bloodGroup": "O-",
+      "unitsAvailable": 3,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-5-O+",
+      "bloodBankId": "bb-5",
+      "bloodGroup": "O+",
+      "unitsAvailable": 7,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-5-A-",
+      "bloodBankId": "bb-5",
+      "bloodGroup": "A-",
+      "unitsAvailable": 19,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-5-A+",
+      "bloodBankId": "bb-5",
+      "bloodGroup": "A+",
+      "unitsAvailable": 5,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-5-B-",
+      "bloodBankId": "bb-5",
+      "bloodGroup": "B-",
+      "unitsAvailable": 6,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-5-B+",
+      "bloodBankId": "bb-5",
+      "bloodGroup": "B+",
+      "unitsAvailable": 18,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-5-AB-",
+      "bloodBankId": "bb-5",
+      "bloodGroup": "AB-",
+      "unitsAvailable": 19,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    },
+    {
+      "id": "inv-bb-5-AB+",
+      "bloodBankId": "bb-5",
+      "bloodGroup": "AB+",
+      "unitsAvailable": 25,
+      "lowStockThreshold": 8,
+      "criticalStockThreshold": 4,
+      "lastUpdated": "2026-10-08T19:19:51.677Z"
+    }
+  ],
+  "requests": [
+    {
+      "id": "req-1791536429741",
+      "hospitalId": "hosp-1",
+      "hospitalName": "AIIMS Central Hospital",
+      "bloodGroup": "O+",
+      "unitsRequired": 2,
+      "unitsFulfilled": 0,
+      "urgency": "CRITICAL",
+      "deadline": "2026-10-09T12:00:29.722Z",
+      "notes": "Urgent emergency transfusion needed.",
+      "initialRadiusKm": 10,
+      "currentRadiusKm": 50,
+      "maxRadiusKm": 50,
+      "preferredContact": "Phone & Direct In-App",
+      "status": "OPEN",
+      "latitude": 28.5672,
+      "longitude": 77.21,
+      "city": "New Delhi",
+      "createdAt": "2026-10-09T09:00:29.740Z",
+      "updatedAt": "2026-10-09T09:00:29.740Z"
+    },
+    {
+      "id": "req-1791531097910",
+      "hospitalId": "hosp-1791531071159",
+      "hospitalName": "City Hospital",
+      "bloodGroup": "O+",
+      "unitsRequired": 3,
+      "unitsFulfilled": 0,
+      "urgency": "CRITICAL",
+      "deadline": "2026-10-09T09:31:37.891Z",
+      "notes": "Urgent emergency transfusion needed.",
+      "initialRadiusKm": 10,
+      "currentRadiusKm": 50,
+      "maxRadiusKm": 50,
+      "preferredContact": "Phone & Direct In-App",
+      "status": "OPEN",
+      "latitude": 28.5672,
+      "longitude": 77.21,
+      "city": "Mumbai",
+      "createdAt": "2026-10-09T07:31:37.910Z",
+      "updatedAt": "2026-10-09T07:31:37.910Z"
+    }
+  ],
+  "matches": [
+    {
+      "id": "match-req-1791531097910-donor-1",
+      "requestId": "req-1791531097910",
+      "donorId": "donor-1",
+      "donorName": "Rahul Sharma (Demo Donor)",
+      "donorBloodGroup": "O+",
+      "distanceKm": 2.2,
+      "matchScore": 99,
+      "matchReason": "Exact O+ match, verified platform eligibility, available, approx. 2.2 km away (Score: 99/100)",
+      "status": "NOTIFIED",
+      "notifiedAt": "2026-10-09T07:31:37.910Z",
+      "updatedAt": "2026-10-09T07:31:37.910Z"
+    },
+    {
+      "id": "match-req-1791531097910-donor-11",
+      "requestId": "req-1791531097910",
+      "donorId": "donor-11",
+      "donorName": "Meera Deshmukh",
+      "donorBloodGroup": "O+",
+      "distanceKm": 3.4,
+      "matchScore": 99,
+      "matchReason": "Exact O+ match, verified platform eligibility, available, approx. 3.4 km away (Score: 99/100)",
+      "status": "NOTIFIED",
+      "notifiedAt": "2026-10-09T07:31:37.910Z",
+      "updatedAt": "2026-10-09T07:31:37.910Z"
+    },
+    {
+      "id": "match-req-1791531097910-donor-6",
+      "requestId": "req-1791531097910",
+      "donorId": "donor-6",
+      "donorName": "Kavita Rao",
+      "donorBloodGroup": "O+",
+      "distanceKm": 14.53,
+      "matchScore": 95,
+      "matchReason": "Exact O+ match, verified platform eligibility, available, approx. 14.53 km away (Score: 95/100)",
+      "status": "NOTIFIED",
+      "notifiedAt": "2026-10-09T07:31:37.910Z",
+      "updatedAt": "2026-10-09T07:31:37.910Z"
+    },
+    {
+      "id": "match-req-1791531097910-donor-2",
+      "requestId": "req-1791531097910",
+      "donorId": "donor-2",
+      "donorName": "Priya Kapoor",
+      "donorBloodGroup": "O-",
+      "distanceKm": 1.16,
+      "matchScore": 92,
+      "matchReason": "Compatible O- RBC donor, verified platform eligibility, available, approx. 1.16 km away (Score: 92/100)",
+      "status": "NOTIFIED",
+      "notifiedAt": "2026-10-09T07:31:37.910Z",
+      "updatedAt": "2026-10-09T07:31:37.910Z"
+    },
+    {
+      "id": "match-req-1791536429741-donor-1",
+      "requestId": "req-1791536429741",
+      "donorId": "donor-1",
+      "donorName": "Rahul Sharma (Demo Donor)",
+      "donorBloodGroup": "O+",
+      "distanceKm": 2.2,
+      "matchScore": 99,
+      "matchReason": "Exact O+ match, verified platform eligibility, available, approx. 2.2 km away (Score: 99/100)",
+      "status": "NOTIFIED",
+      "notifiedAt": "2026-10-09T09:00:29.740Z",
+      "updatedAt": "2026-10-09T09:00:29.740Z"
+    },
+    {
+      "id": "match-req-1791536429741-donor-11",
+      "requestId": "req-1791536429741",
+      "donorId": "donor-11",
+      "donorName": "Meera Deshmukh",
+      "donorBloodGroup": "O+",
+      "distanceKm": 3.4,
+      "matchScore": 99,
+      "matchReason": "Exact O+ match, verified platform eligibility, available, approx. 3.4 km away (Score: 99/100)",
+      "status": "NOTIFIED",
+      "notifiedAt": "2026-10-09T09:00:29.740Z",
+      "updatedAt": "2026-10-09T09:00:29.740Z"
+    },
+    {
+      "id": "match-req-1791536429741-donor-6",
+      "requestId": "req-1791536429741",
+      "donorId": "donor-6",
+      "donorName": "Kavita Rao",
+      "donorBloodGroup": "O+",
+      "distanceKm": 14.53,
+      "matchScore": 95,
+      "matchReason": "Exact O+ match, verified platform eligibility, available, approx. 14.53 km away (Score: 95/100)",
+      "status": "NOTIFIED",
+      "notifiedAt": "2026-10-09T09:00:29.740Z",
+      "updatedAt": "2026-10-09T09:00:29.740Z"
+    },
+    {
+      "id": "match-req-1791536429741-donor-2",
+      "requestId": "req-1791536429741",
+      "donorId": "donor-2",
+      "donorName": "Priya Kapoor",
+      "donorBloodGroup": "O-",
+      "distanceKm": 1.16,
+      "matchScore": 92,
+      "matchReason": "Compatible O- RBC donor, verified platform eligibility, available, approx. 1.16 km away (Score: 92/100)",
+      "status": "NOTIFIED",
+      "notifiedAt": "2026-10-09T09:00:29.740Z",
+      "updatedAt": "2026-10-09T09:00:29.740Z"
+    }
+  ],
+  "donations": [
+    {
+      "id": "don-demo-1",
+      "requestId": "req-past-1",
+      "donorId": "donor-1",
+      "hospitalId": "hosp-1",
+      "institutionName": "AIIMS Central Hospital",
+      "bloodGroup": "O+",
+      "unitsDonated": 1,
+      "donationDate": "2026-06-15T09:30:00Z",
+      "certificateId": "cert-bb-2026-0042",
+      "createdAt": "2026-06-15T09:30:00Z"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-bb-2026-0042",
+      "donationId": "don-demo-1",
+      "donorName": "Rahul Sharma (Demo Donor)",
+      "donorBloodGroup": "O+",
+      "institutionName": "AIIMS Central Hospital",
+      "donationDate": "2026-06-15",
+      "verificationCode": "BB-CERT-AIIMS-9841",
+      "createdAt": "2026-06-15T09:30:00Z"
+    }
+  ],
+  "donorBadges": [
+    {
+      "id": "dbadge-1",
+      "donorId": "donor-1",
+      "badgeId": "b-first",
+      "badgeName": "First Donation",
+      "description": "Completed first verified blood donation",
+      "icon": "Award",
+      "awardedAt": "2025-01-10T10:00:00Z"
+    },
+    {
+      "id": "dbadge-2",
+      "donorId": "donor-1",
+      "badgeId": "b-three",
+      "badgeName": "3 Donations Milestone",
+      "description": "Completed three verified blood donations",
+      "icon": "HeartHandshake",
+      "awardedAt": "2025-10-14T11:00:00Z"
+    },
+    {
+      "id": "dbadge-3",
+      "donorId": "donor-1",
+      "badgeId": "b-hero",
+      "badgeName": "Emergency Hero",
+      "description": "Responded to critical emergency blood request within 15 minutes",
+      "icon": "Flame",
+      "awardedAt": "2026-03-20T14:30:00Z"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "tr-101",
+      "sourceBloodBankId": "bb-3",
+      "sourceBloodBankName": "Rotary Blood Bank Gurugram",
+      "sourceCity": "Gurugram",
+      "destinationHospitalId": "hosp-1",
+      "destinationHospitalName": "AIIMS Central Hospital",
+      "destinationCity": "New Delhi",
+      "bloodGroup": "O-",
+      "units": 4,
+      "distanceKm": 28.5,
+      "estimatedTransitMinutes": 45,
+      "status": "IN_TRANSIT",
+      "eta": "2026-10-08T19:49:51.680Z",
+      "trackingNumber": "TRK-GUR-DEL-894",
+      "isSimulated": true,
+      "createdAt": "2026-10-08T18:19:51.680Z",
+      "updatedAt": "2026-10-08T19:19:51.677Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1791536429749-241",
+      "userId": "usr-donor-2",
+      "title": "URGENT: CRITICAL Blood Request for O+",
+      "message": "AIIMS Central Hospital needs O+ blood urgently (1.16 km away). Please respond!",
+      "category": "REQUEST",
+      "priority": "HIGH",
+      "isRead": false,
+      "actionUrl": "/donor/dashboard?request=req-1791536429741",
+      "createdAt": "2026-10-09T09:00:29.740Z"
+    },
+    {
+      "id": "notif-1791536429748-16",
+      "userId": "usr-donor-6",
+      "title": "URGENT: CRITICAL Blood Request for O+",
+      "message": "AIIMS Central Hospital needs O+ blood urgently (14.53 km away). Please respond!",
+      "category": "REQUEST",
+      "priority": "HIGH",
+      "isRead": false,
+      "actionUrl": "/donor/dashboard?request=req-1791536429741",
+      "createdAt": "2026-10-09T09:00:29.740Z"
+    },
+    {
+      "id": "notif-1791536429748-166",
+      "userId": "usr-donor-11",
+      "title": "URGENT: CRITICAL Blood Request for O+",
+      "message": "AIIMS Central Hospital needs O+ blood urgently (3.4 km away). Please respond!",
+      "category": "REQUEST",
+      "priority": "HIGH",
+      "isRead": false,
+      "actionUrl": "/donor/dashboard?request=req-1791536429741",
+      "createdAt": "2026-10-09T09:00:29.740Z"
+    },
+    {
+      "id": "notif-1791536429745-914",
+      "userId": "usr-donor",
+      "title": "URGENT: CRITICAL Blood Request for O+",
+      "message": "AIIMS Central Hospital needs O+ blood urgently (2.2 km away). Please respond!",
+      "category": "REQUEST",
+      "priority": "HIGH",
+      "isRead": false,
+      "actionUrl": "/donor/dashboard?request=req-1791536429741",
+      "createdAt": "2026-10-09T09:00:29.740Z"
+    },
+    {
+      "id": "notif-1791531097921-541",
+      "userId": "usr-donor-2",
+      "title": "URGENT: CRITICAL Blood Request for O+",
+      "message": "City Hospital needs O+ blood urgently (1.16 km away). Please respond!",
+      "category": "REQUEST",
+      "priority": "HIGH",
+      "isRead": false,
+      "actionUrl": "/donor/dashboard?request=req-1791531097910",
+      "createdAt": "2026-10-09T07:31:37.910Z"
+    },
+    {
+      "id": "notif-1791531097918-381",
+      "userId": "usr-donor-6",
+      "title": "URGENT: CRITICAL Blood Request for O+",
+      "message": "City Hospital needs O+ blood urgently (14.53 km away). Please respond!",
+      "category": "REQUEST",
+      "priority": "HIGH",
+      "isRead": false,
+      "actionUrl": "/donor/dashboard?request=req-1791531097910",
+      "createdAt": "2026-10-09T07:31:37.910Z"
+    },
+    {
+      "id": "notif-1791531097917-226",
+      "userId": "usr-donor-11",
+      "title": "URGENT: CRITICAL Blood Request for O+",
+      "message": "City Hospital needs O+ blood urgently (3.4 km away). Please respond!",
+      "category": "REQUEST",
+      "priority": "HIGH",
+      "isRead": false,
+      "actionUrl": "/donor/dashboard?request=req-1791531097910",
+      "createdAt": "2026-10-09T07:31:37.910Z"
+    },
+    {
+      "id": "notif-1791531097915-123",
+      "userId": "usr-donor",
+      "title": "URGENT: CRITICAL Blood Request for O+",
+      "message": "City Hospital needs O+ blood urgently (2.2 km away). Please respond!",
+      "category": "REQUEST",
+      "priority": "HIGH",
+      "isRead": false,
+      "actionUrl": "/donor/dashboard?request=req-1791531097910",
+      "createdAt": "2026-10-09T07:31:37.910Z"
+    },
+    {
+      "id": "notif-1",
+      "userId": "usr-donor",
+      "title": "Welcome to BloodBridge",
+      "message": "Your donor profile is active and verified for emergency matching.",
+      "category": "SYSTEM",
+      "priority": "LOW",
+      "isRead": true,
+      "createdAt": "2026-10-08T19:19:51.677Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "audit-1791536429749-384",
+      "userId": "usr-hospital",
+      "userRole": "HOSPITAL",
+      "action": "REQUEST_CREATED",
+      "details": "Created CRITICAL request for 2 units of O+ (Matches generated: 4)",
+      "timestamp": "2026-10-09T09:00:29.749Z"
+    },
+    {
+      "id": "audit-1791536072635-266",
+      "userId": "usr-hospital",
+      "userRole": "HOSPITAL",
+      "action": "USER_LOGIN",
+      "details": "User hospital@demo.com logged in successfully",
+      "timestamp": "2026-10-09T08:54:32.635Z"
+    },
+    {
+      "id": "audit-1791531097922-631",
+      "userId": "usr-1791531070981",
+      "userRole": "HOSPITAL",
+      "action": "REQUEST_CREATED",
+      "details": "Created CRITICAL request for 3 units of O+ (Matches generated: 4)",
+      "timestamp": "2026-10-09T07:31:37.922Z"
+    },
+    {
+      "id": "audit-1791531071160-381",
+      "userId": "usr-1791531070981",
+      "userRole": "HOSPITAL",
+      "action": "USER_REGISTERED",
+      "details": "New account created: komalmngutkr14@gmail.com as HOSPITAL",
+      "timestamp": "2026-10-09T07:31:11.160Z"
+    },
+    {
+      "id": "audit-1791530661728-565",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "ELIGIBILITY_SCREENING_COMPLETED",
+      "details": "Screening status updated to NOT_CURRENTLY_ELIGIBLE",
+      "timestamp": "2026-10-09T07:24:21.728Z"
+    },
+    {
+      "id": "audit-1791530642618-19",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "DONOR_AVAILABILITY_CHANGED",
+      "details": "Donor availability toggled to true",
+      "timestamp": "2026-10-09T07:24:02.618Z"
+    },
+    {
+      "id": "audit-1791530639999-725",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "DONOR_AVAILABILITY_CHANGED",
+      "details": "Donor availability toggled to false",
+      "timestamp": "2026-10-09T07:23:59.999Z"
+    },
+    {
+      "id": "audit-1791530637505-193",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "ELIGIBILITY_SCREENING_COMPLETED",
+      "details": "Screening status updated to NOT_CURRENTLY_ELIGIBLE",
+      "timestamp": "2026-10-09T07:23:57.505Z"
+    },
+    {
+      "id": "audit-1791530617501-987",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "ELIGIBILITY_SCREENING_COMPLETED",
+      "details": "Screening status updated to NOT_CURRENTLY_ELIGIBLE",
+      "timestamp": "2026-10-09T07:23:37.501Z"
+    },
+    {
+      "id": "audit-1791530608545-48",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "ELIGIBILITY_SCREENING_COMPLETED",
+      "details": "Screening status updated to REVIEW_REQUIRED",
+      "timestamp": "2026-10-09T07:23:28.545Z"
+    },
+    {
+      "id": "audit-1791530577900-437",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "USER_LOGIN",
+      "details": "User komal.mangutkar25@sakec.ac.in logged in successfully",
+      "timestamp": "2026-10-09T07:22:57.900Z"
+    },
+    {
+      "id": "audit-1791529323153-175",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "USER_LOGIN",
+      "details": "User komal.mangutkar25@sakec.ac.in logged in successfully",
+      "timestamp": "2026-10-09T07:02:03.153Z"
+    },
+    {
+      "id": "audit-1791529280317-938",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "DONOR_AVAILABILITY_CHANGED",
+      "details": "Donor availability toggled to true",
+      "timestamp": "2026-10-09T07:01:20.317Z"
+    },
+    {
+      "id": "audit-1791529279934-57",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "DONOR_AVAILABILITY_CHANGED",
+      "details": "Donor availability toggled to false",
+      "timestamp": "2026-10-09T07:01:19.934Z"
+    },
+    {
+      "id": "audit-1791529268568-277",
+      "userId": "usr-1791529268334",
+      "userRole": "DONOR",
+      "action": "USER_REGISTERED",
+      "details": "New account created: komal.mangutkar25@sakec.ac.in as DONOR",
+      "timestamp": "2026-10-09T07:01:08.568Z"
+    },
+    {
+      "id": "audit-1791487191680-493",
+      "action": "SYSTEM_SEED",
+      "details": "Seeded demo database with initial users, hospitals, blood banks, inventory, and donors.",
+      "timestamp": "2026-10-08T19:19:51.680Z"
+    }
+  ]
+}
